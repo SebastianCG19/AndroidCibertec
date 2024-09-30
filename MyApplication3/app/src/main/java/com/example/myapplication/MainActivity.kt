@@ -116,6 +116,8 @@ class MainActivity : AppCompatActivity() {
             crearLogConMsj(antigue.toString())
 
         }
+        crearLogConMsj("Para Git")
+
 
 
 
